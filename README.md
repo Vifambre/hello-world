@@ -11,3 +11,8 @@ This time, we edit after cloning the repository from GitHub to our computer (usi
 We are now learning how to push the modifications made to the GitHub repository.
 
 "Master yourself, master the enemy" - Lonely blind monk
+
+Edit 3:
+After learning about the "git push" command, we are now learning about the "git pull" command: it is used to update the repository in your computer from the changes done to your repository in GitHub (this is your remote), in order for them to be the same. This is better since you'll work on an always updated version of your code.
+
+"My shield is my sword!" - Curly mustached big guy
